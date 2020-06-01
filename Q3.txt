@@ -1,0 +1,6 @@
+Problem 3:
+Time taken for problem 1: 0.11664295196533203 s.
+Time taken for problem 2: 0.0960395336151123 s.
+Therefore, the later is much faster.
+
+
